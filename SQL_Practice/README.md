@@ -1,2 +1,4 @@
-# SQL Practice
-This folder contains SQL exercises and solutions from StrataScratch and personal practice.
+## 🧪 Ejercicio: Count Customers
+🔗 [Ver código SQL](./stratascratch_code_exercise_1.sql)  
+📸 Resultado:  
+![Resultado SQL](.strata_scratch_Exercise1.png)  
