@@ -4,8 +4,8 @@ Welcome to my Data Analytics portfolio where I showcase hands-on projects using 
 
 ## 📂 Repository Structure:
 - [SQL_Projects](./SQL_Practice) → SQL problem-solving exercises.
-- **/Excel_Projects/** → Excel dashboards and analysis.
-- **/PowerBI_Projects/** → Power BI reports and dashboards.
+- [Excel Projects](./Excel_Projects) → Excel dashboards and analysis.
+- [PoweBI Projects](./PowerBI_Projects) → Power BI reports and dashboards.
 
 ## 🚀 Tools & Skills:
 - SQL (Joins, Aggregations, CTEs)
